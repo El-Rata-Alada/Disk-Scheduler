@@ -53,5 +53,5 @@ def main():
 
     visualize(sequence, algorithm, seek_time, avg_seek_time, system_throughput)
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
